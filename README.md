@@ -29,4 +29,4 @@ WY~4-Psy;Kqb]r^ >]`k60@d.2LVuo~ s"?siy-J4yM;TYj
 
 ```
 ## License
-MIT license. Use as you please.
+![MIT license](LICENSE.md). Use as you please.
