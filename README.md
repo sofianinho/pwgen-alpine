@@ -18,7 +18,7 @@ If you want to include this software in you project, one inspiration could be th
 
 
 ## How to use this repository
-Standard git clone commad and docker build, provided with an example to generate **3 15-long characters secure passwords with special characters**. Note that as of recent Docker security recommendations, the "nobody" non-root user is the one invoking the pwgen command inside your container. See [here](https://www.youtube.com/watch?v=LmUw2H6JgJo).
+Standard git clone command and docker build, provided with an example to generate **3 15-long characters secure passwords with special characters**. Note that as of recent Docker security recommendations, the "nobody" non-root user is the one invoking the pwgen command inside your container. See [here](https://www.youtube.com/watch?v=LmUw2H6JgJo).
 
 ```
 git clone https://github.com/sofianinho/pwgen-alpine.git
